@@ -1,0 +1,11 @@
+{
+  "name": "เส้นทางสู่การครองตน",
+  "short_name": "Soulforge",
+  "description": "ปฏิทินติดตามการออกกำลังกายและวินัยส่วนตัว",
+  "lang": "th",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080505",
+  "theme_color": "#0b0708",
+  "icons": []
+}
